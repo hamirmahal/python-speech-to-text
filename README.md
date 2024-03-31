@@ -1,3 +1,7 @@
+[![Mypy](https://github.com/hamirmahal/python-speech-to-text/actions/workflows/mypy.yml/badge.svg)](https://github.com/hamirmahal/python-speech-to-text/actions/workflows/mypy.yml)
+[![Ruff](https://github.com/hamirmahal/python-speech-to-text/actions/workflows/ruff.yml/badge.svg)](https://github.com/hamirmahal/python-speech-to-text/actions/workflows/ruff.yml)
+[![Test](https://github.com/hamirmahal/python-speech-to-text/actions/workflows/test.yml/badge.svg)](https://github.com/hamirmahal/python-speech-to-text/actions/workflows/test.yml)
+
 # Setup
 
 Run
